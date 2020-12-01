@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">HHProject11</string>
+    <string name="error_user_response">Ошибка получения данных!</string>
+    <string name="age">Возраст:</string>
+    <string name="city">Город:</string>
+    <string name="last_visit">Последний визит:</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
